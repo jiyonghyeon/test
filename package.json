@@ -1,0 +1,22 @@
+{
+  "name": "travel",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "test.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiyonghyeon/test.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "ji",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jiyonghyeon/test/issues"
+  },
+  "homepage": "https://github.com/jiyonghyeon/test#readme"
+}
